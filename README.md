@@ -5,20 +5,14 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+Quiz 1:
 
-* System dependencies
+1) Rails app
 
-* Configuration
+2) Page has static content
 
-* Database creation
+3) Hosted on Heroku
 
-* Database initialization
+4) Hosted on Github
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+5) Headline of page in non black color
