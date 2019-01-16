@@ -16,3 +16,15 @@ Quiz 1:
 4) Hosted on Github
 
 5) Headline of page in non black color
+
+Quiz 2:
+
+1) created a model named Product, db migration 
+
+2) added simple form as gem
+
+3) build a form for adding new products as a modal on the page
+
+4) saving the data to the database
+
+5) The list of the existing and newly added products is displayed on the screen
