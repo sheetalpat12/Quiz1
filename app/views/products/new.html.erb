@@ -1,0 +1,10 @@
+<div class="newproductform">
+  <h1>Enter a product you think will revolutionize our world </h1>
+  <%= simple_form_for @product do |f| %>
+    <%= f.input :name %>
+    <%= f.input :description %>
+    <div class="btnSubmitProduct">
+    <%= f.submit 'Add a product', class: 'btn btn-primary' %>
+  </div>
+  <% end %>
+</div>

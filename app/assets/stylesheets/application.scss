@@ -13,7 +13,7 @@
  *= require_tree .
  *= require_self
  */
- 
+
 @import "bootstrap";
 
 .content{
@@ -23,12 +23,30 @@
   -o-background-size: cover;
   background-size: cover;  
   box-shadow: 0px 3px 8px #2a2a2a;
+  max-width: 1200px;
+  margin: auto;
 }
+
 
 .info-content{
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 100;
   color: white;
+  box-shadow: 0px 3px 8px #2a2a2a;
+}
+
+.newproductform{
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 100;
+  color: black;
+  box-shadow: 0px 3px 8px #2a2a2a;
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.btnSubmitProduct{
+  text-align:center;
 }
 
 h1{
